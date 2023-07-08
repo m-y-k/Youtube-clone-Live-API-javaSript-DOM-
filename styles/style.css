@@ -27,8 +27,8 @@ input:focus {
 
 .videos-container {
     background-color: black;
-    /* width: fit-content;
-    display:grid;
+    width: 100%;
+    /* display:grid;
     grid-template-columns: repeat(4, 1fr); */
     height: 100%;
     padding: 0.8rem; /* 0.8rem */

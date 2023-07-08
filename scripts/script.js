@@ -54,7 +54,7 @@ function renderVideos(videos) {
         container.innerHTML += `
             <div class="video-info" onclick="openVideoDetails('${video.id}')">
                 <div class="video-image">
-                    <img src="${image_url}" alt="video title" width="280" height="140" />
+                    <img src="${image_url}" alt="video title" width="280" height="150" />
                     <p class="duration">23:45</p>
                 </div>
                 <div class="video-description">
